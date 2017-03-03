@@ -16,6 +16,6 @@
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Horwits/Drummers/blob/master/LICENSE) file for details
 
-## Acknowledgments
+## Clarifications
 
 * This is a project for [TelerikAcademy's ASP.NET WebForms course](https://telerikacademy.com/Courses/aspnet-web-development).
